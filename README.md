@@ -5,7 +5,13 @@
 Simple Python Drawing editor using library wxPython to make a GUI interface.
 
 # New Features!
-
   - Change pencil color
   - Change the line stroke
   - Full screen table to draw with mouse or wacon
+# Install
+To install using the commands
+pip install wxpython
+
+Download the source code and to run execute
+python pypaint.py
+
